@@ -1,4 +1,6 @@
-title: Edward hurme
+title: Edward Hurme
+logo: /assets/PXL_20220814_004127057.jpg
+description: Behavioral Ecologist
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
